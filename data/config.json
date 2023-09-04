@@ -1,0 +1,9 @@
+{
+    "username":"standard_user",
+    "password":"secret_sauce",
+    "url":"https://www.saucedemo.com/",
+    "postal_code":"123",
+    "first_name":"apple",
+    "last_name":"mango"
+
+}
